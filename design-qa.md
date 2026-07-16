@@ -19,6 +19,7 @@
 
 - Estimate dialog opens from the primary CTA.
 - Mobile menu opens and exposes the navigation links.
+- The `/FixLoop/` project subpath hydrates without errors, and the `/FixLoop/for-shops` client-side route loads correctly.
 - Desktop and mobile pages render without missing content.
 - Browser console was checked. No runtime errors occurred. One pre-existing accessibility warning is emitted when the estimate dialog opens because its dialog content lacks a description.
 
